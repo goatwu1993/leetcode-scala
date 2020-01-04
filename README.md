@@ -1,5 +1,8 @@
-# Scala-leetcode
+# scala-leetcode
 
-## To test:
-
-### `sbt "test:testOnly *Problem1_Test"`
+- To install  
+  `git clone`  
+  `cd scala-leetcode`  
+  `sbt`
+- Test command  
+  `sbt "test:testOnly *Problem1_Test"`
