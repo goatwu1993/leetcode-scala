@@ -1,4 +1,4 @@
-- Scala-leetcode
+# Scala-leetcode
 
 ## To test:
 
